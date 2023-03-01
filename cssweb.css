@@ -1,0 +1,17 @@
+.Judul{
+    color: rgb(37, 33, 2);
+    font-weight: bold;
+    font-size: 150%;
+    font-family:Capuche Trial Black;
+    -webkit-text-stroke: 0.1px white;
+    text-align: center;
+}
+#deskripsi{
+    color:rgb(181, 126, 0);
+    font-size: 100%;
+    font-weight: lighter;
+    
+}
+body {
+    background-color: rgb(60, 60, 60);
+  }
